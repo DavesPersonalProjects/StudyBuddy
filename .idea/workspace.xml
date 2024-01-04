@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55e1ca09-7d11-42d9-a406-7b476f306ad7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/studybuddy/lib/functions/db_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studybuddy/lib/functions/local_UsrObj.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studybuddy/lib/functions/task.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studybuddy/lib/pages/welcome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/functions/User_Obj.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/functions/User_Obj.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/pages/calendarpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/pages/calendarpage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/pages/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/pages/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/pages/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/pages/registration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/pages/registration.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/pages/taskpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/pages/taskpage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/lib/widgets/customwidgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/lib/widgets/customwidgets.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybuddy/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/studybuddy/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XYPFemflEWBBJ6YWrlGL3zNzAH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "kishore-branch-WIP",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e1ca09-7d11-42d9-a406-7b476f306ad7" name="Changes" comment="" />
+      <created>1698802938865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698802938865</updated>
+      <workItem from="1698802942394" duration="18000" />
+      <workItem from="1699479215654" duration="8000" />
+      <workItem from="1699479229435" duration="17000" />
+      <workItem from="1699483111481" duration="7000" />
+      <workItem from="1699510055471" duration="96000" />
+      <workItem from="1700089595797" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

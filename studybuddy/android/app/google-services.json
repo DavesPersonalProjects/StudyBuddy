@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "506528966319",
+    "firebase_url": "https://studybuddy-20616-default-rtdb.firebaseio.com",
+    "project_id": "studybuddy-20616",
+    "storage_bucket": "studybuddy-20616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506528966319:android:4db0a15c685b297a33165a",
+        "android_client_info": {
+          "package_name": "com.example.studybuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvgnd7D7Sml1mel4ucoLLkmssvPv1e3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
